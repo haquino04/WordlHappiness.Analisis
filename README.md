@@ -1,0 +1,1 @@
+# WordlHappiness.Analisis
